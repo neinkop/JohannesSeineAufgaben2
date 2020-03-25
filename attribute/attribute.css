@@ -1,0 +1,19 @@
+a[href] {
+    font-size: 20px;
+    color: blue;
+}
+
+a[href^="http"] {
+    font-size: 20px;
+    color: aqua;
+}
+
+a[href^="https://spiegel.de"] {
+    font-size: 20px;
+    color: green;
+}
+
+a[href$="pdf"] {
+    font-size: 20px;
+    color: red;
+}

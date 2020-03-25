@@ -1,0 +1,21 @@
+.format_1 {
+     font-family: Arial Unicode MS;
+     font-size: xx-large;
+     text-align: center;
+     color: #FF0000;
+ }
+.format_1 {
+    font-family: Arial Unicode MS;
+    font-size: x-large;
+    text-align: center;
+    color: #0000FF;
+}
+.format_3 {
+    background: #0000FF;
+}
+
+h2.format_4 {
+    color: #FFFFFF;
+    text-align: center;
+    background: #FF0000;
+}
